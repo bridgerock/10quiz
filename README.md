@@ -2,6 +2,11 @@
 # 10quiz
 Programmatic solution to 2018 Chinese criminal investigation entrance exam.
 
+To use
+```
+dart lib/main.dart
+```
+
 ## 2018 Chinese Criminal Investigation Entrance Exam ( Chinese)
 
 ![Screenshot of the 2018 Chinese criminal investigation entrance exam](https://github.com/bridgerock/10quiz/blob/master/10quiz_chinese.jpg)
